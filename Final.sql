@@ -1,5 +1,4 @@
--- Created by Vertabelo (http://vertabelo.com)
--- Last modification date: 2021-12-10 22:14:17.138
+
 
 -- tables
 -- Table: dim_crime_t
